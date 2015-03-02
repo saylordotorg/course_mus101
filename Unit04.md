@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MUS101: Introduction to Music"
+course_description: "An introductory survey of the Western classical tradition, with a focus on the development of aural skills that lead to an understanding and appreciation of music."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Musical Styles** <span id="4"></span> 
 *Style in music is generally the distinctive sound created by an artist,
 composer, or performing group. This unit explores the continuum of

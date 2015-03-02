@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MUS101: Introduction to Music"
+course_description: "An introductory survey of the Western classical tradition, with a focus on the development of aural skills that lead to an understanding and appreciation of music."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: What is Music?** <span id="1"></span> 
 *This unit investigates some fundamental questions about the nature of
 music.  How do we define music?  What, if anything, makes music

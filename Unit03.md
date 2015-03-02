@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MUS101: Introduction to Music"
+course_description: "An introductory survey of the Western classical tradition, with a focus on the development of aural skills that lead to an understanding and appreciation of music."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Musical Structure** <span id="3"></span> 
 *This unit deals with formal elements of design—the shape, arrangement,
 relationship, or organization of the various elements of music. 
