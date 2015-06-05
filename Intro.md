@@ -208,3 +208,11 @@ music tradition.  Quite a number of these can be found on YouTube, and
 [MusOpen](http://www.musopen.org/), which offers free classical music in
 the public domain.  We also recommend that you tune into your local
 classical radio station.  
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/mus101/Unit01/)
+- [Unit 2](https://legacy.saylor.org/mus101/Unit02/)
+- [Unit 3](https://legacy.saylor.org/mus101/Unit03/)
+- [Unit 4](https://legacy.saylor.org/mus101/Unit04/)
+- [Unit 5](https://legacy.saylor.org/mus101/Unit05/)
