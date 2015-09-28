@@ -219,3 +219,4 @@ classical radio station.  
 - [Unit 3](https://legacy.saylor.org/mus101/Unit03/)
 - [Unit 4](https://legacy.saylor.org/mus101/Unit04/)
 - [Unit 5](https://legacy.saylor.org/mus101/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/MUS101/MUS101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/MUS101/MUS101-FinalExam-Answers.html)
