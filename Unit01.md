@@ -35,9 +35,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assignment: The Saylor Foundation’s “MUS101 Unit 1 Vocabulary
     Worksheet” and “MUS101 Learning Journal”**
     Links: The Saylor Foundation’s “[MUS101 Unit 1 Vocabulary
-    Worksheet](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Unit-1-VOCABULARY-WORKSHEET_FINAL.pdf)”
+    Worksheet](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Unit-1-VOCABULARY-WORKSHEET_FINAL.pdf)”
     (PDF) and “[MUS101 Learning
-    Journal](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS-101-UNIT-1-LEARNING-JOURNAL-REFLECTIONS_FINAL.pdf)”
+    Journal](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS-101-UNIT-1-LEARNING-JOURNAL-REFLECTIONS_FINAL.pdf)”
     (PDF)  
       
      Instructions: Before you read this unit, refer to the MUS101 Unit 1
@@ -129,7 +129,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assignment: The Saylor Foundation’s “What Is Classical Music?”**
     Link: The Saylor Foundation’s “[What Is Classical
-    Music?](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS-101-Subunit-1.3-What-Is-Classical-Music_FINAL.pdf)”
+    Music?](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS-101-Subunit-1.3-What-Is-Classical-Music_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please work through the linked listening assignment

@@ -94,9 +94,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assignment: The Saylor Foundation’s “MUS101 Unit 4 Vocabulary
     Worksheet” and “MUS101 Unit 4 Learning Journal”**
     Links: The Saylor Foundation’s “[MUS101 Unit 4 Vocabulary
-    Worksheet](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Unit-4-Vocabulary-Worksheet_Final.pdf)”
+    Worksheet](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Unit-4-Vocabulary-Worksheet_Final.pdf)”
     (PDF) and “[MUS101 Unit 4 Learning
-    Journal](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS-101-Unit-4-LEARNING-JOURNALREFLECTIONS_FINAL.pdf)”
+    Journal](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS-101-Unit-4-LEARNING-JOURNALREFLECTIONS_FINAL.pdf)”
     (PDF)  
       
      Instructions: Before you read this unit, refer to the MUS101 Unit 4
@@ -145,7 +145,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assignment: The Saylor Foundation’s “The Gregorian Chant”**
     Link: The Saylor Foundation’s “[The Gregorian
-    Chant](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Unit-4.1.1-CHANT_FINAL.pdf)”
+    Chant](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Unit-4.1.1-CHANT_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to download the
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assignment: The Saylor Foundation’s “Secular Music in the Middle
     Ages”**
     Link: The Saylor Foundation’s “[Secular Music in the Middle
-    Ages](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS-101-ASSIGNMENT-4-1-3-SECULAR-MUSIC-IN-THE-MIDDLE-AGES_FINAL.pdf)”
+    Ages](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS-101-ASSIGNMENT-4-1-3-SECULAR-MUSIC-IN-THE-MIDDLE-AGES_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link to download this three-part
@@ -259,7 +259,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assignment: The Saylor Foundation’s “The Renaissance Madrigal”**
     Link: The Saylor Foundation’s “[The Renaissance
-    Madrigal](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-ASSIGNMENT-4.1.5-RENAISSANCE-MADRIGAL_FINAL.pdf)”
+    Madrigal](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-ASSIGNMENT-4.1.5-RENAISSANCE-MADRIGAL_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link to download the assignment,
@@ -375,9 +375,9 @@ Upon successful completion of this unit, the student will be able to:
     in Handel’s Messiah”**
     Links: The Saylor Foundation’s “[Guided Listening 2: Handel’s
     *Messiah* Libretto and Study
-    Guide](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.2.3-Handels-Messiah-Libretto-and-Listening-Guide-2_FINAL.pdf)*”*
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.2.3-Handels-Messiah-Libretto-and-Listening-Guide-2_FINAL.pdf)*”*
     (PDF) and “[Elements of Music and Meaning in Handel’s
-    *Messiah*](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.2.3-Handels-Messiah-Assignment-FINAL.pdf)*”*
+    *Messiah*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.2.3-Handels-Messiah-Assignment-FINAL.pdf)*”*
     (PDF)  
         
      Instructions: Please download the “Guided Listening 2” document to
@@ -499,9 +499,9 @@ id="4.3.1"></span> 
     Forman’s Amadeus” and “Music and Society in Eighteenth Century
     Europe”**
     Links: The Saylor Foundation’s “[Study Guide for Milos Forman’s
-    *Amadeus*](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.3.2-Amadeus-Film-Study-Guide_FINAL.pdf)”
+    *Amadeus*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.3.2-Amadeus-Film-Study-Guide_FINAL.pdf)”
     (PDF) and “[Music and Society in Eighteenth Century
-    Europe](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.3.2-Music-and-Society-in-Eighteenth-Century-Europe_FINAL.pdf)”
+    Europe](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.3.2-Music-and-Society-in-Eighteenth-Century-Europe_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the “Study Guide” handout and follow
@@ -539,10 +539,10 @@ id="4.3.1"></span> 
     the Classical Symphony”**
     Link: The Saylor Foundation’s “[Guided Listening 3: The Art of the
     Symphony in Beethoven’s Symphony No. 5 in C
-    Minor](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4-3-3-Beethovens-Fifth-Symphony-Program-Notes-and-Listening-Guide_FINAL.pdf)”
+    Minor](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4-3-3-Beethovens-Fifth-Symphony-Program-Notes-and-Listening-Guide_FINAL.pdf)”
     (PDF) and “[Beethoven’s Fifth Symphony: Hearing and Describing the
     Structure of the Classical
-    Symphony](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.3.3-Beethovens-Fifth-Symphony-Assignment_FINAL.pdf)”
+    Symphony](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.3.3-Beethovens-Fifth-Symphony-Assignment_FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on both links above.  Please use “Guided
@@ -766,7 +766,7 @@ id="4.4.1"></span> 
     20th Century: Stravinsky’s Rite of Spring”**
     Links: The Saylor Foundation’s “[Music and Modernism in the
     20<sup>th</sup> Century: Stravinsky’s *Rite of
-    Spring*](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.5.1-Stravinsky-Rite-of-Spring-Assignment-FINAL.pdf)”
+    Spring*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.5.1-Stravinsky-Rite-of-Spring-Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: After you have reviewed Alan M. Rothenberg’s Program
@@ -922,7 +922,7 @@ id="4.5.3"></span> 
     and Postmodern Musical Aesthetics”**
     Link: The Saylor Foundation’s “[Guided Listening 4: John Cage and
     Postmodern Musical
-    Aesthetics](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4.5.4-Guided-Listening-4-John-Cages-4-Minutes-and-33-Seconds-of-Silence_FINAL.pdf)”
+    Aesthetics](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4.5.4-Guided-Listening-4-John-Cages-4-Minutes-and-33-Seconds-of-Silence_FINAL.pdf)”
     (PDF)  
         
      Instructions: Click on the link to download the assignment page,
@@ -953,7 +953,7 @@ id="4.5.3"></span> 
 -   **Assignment: The Saylor Foundation’s “Final Course Reflections
     Essay”**
     Link: The Saylor Foundation’s “[Final Course Reflections
-    Essay](http://www.saylor.org/site/wp-content/uploads/2011/07/MUS101-Subunit-4-6-FINAL-COURSE-REFLECTIONS-ESSAY_FINAL.pdf)”
+    Essay](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-4-6-FINAL-COURSE-REFLECTIONS-ESSAY_FINAL.pdf)”
     (PDF)  
         
      Instructions: This assignment will give you the opportunity to
