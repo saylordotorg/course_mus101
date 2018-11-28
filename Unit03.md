@@ -44,9 +44,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assignment: The Saylor Foundation’s “MUS101 Unit 3: Vocabulary
     Worksheet” and “MUS101 Unit 3 Learning Journal”**
     Links: The Saylor Foundation’s “[MUS101 Unit 3: Vocabulary
-    Worksheet](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-UNIT-3-Vocabulary-Worksheet_Final.pdf)”
+    Worksheet](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MUS101-UNIT-3-Vocabulary-Worksheet_Final.pdf)”
     (PDF) and “[MUS101 Unit 3 Learning
-    Journal](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-UNIT-3-LEARNING-JOURNAL-REFLECTIONS_FINAL.pdf)”
+    Journal](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MUS101-UNIT-3-LEARNING-JOURNAL-REFLECTIONS_FINAL.pdf)”
     (PDF)  
         
      Instructions: Before you read this unit, refer to the MUS101 Unit 3
