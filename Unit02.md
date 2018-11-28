@@ -50,9 +50,9 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assignment: The Saylor Foundation’s “MUS101 Unit 2 Vocabulary
     Worksheet” and “MUS101 Unit 2 Learning Journal”**
     Links: The Saylor Foundation’s “[MUS101 Unit 2 Vocabulary
-    Worksheet](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-UNIT-2-VOCABULARY_FINAL.pdf)”
+    Worksheet](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MUS101-UNIT-2-VOCABULARY_FINAL.pdf)”
     (PDF) and “[MUS101 Unit 2 Learning
-    Journal](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Unit-2-Learning-Journal-Reflections_FINAL.pdf)”
+    Journal](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MUS101-Unit-2-Learning-Journal-Reflections_FINAL.pdf)”
     (PDF)  
         
      Instructions: Before you read this unit, refer to the MUS101 Unit 2
@@ -254,7 +254,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia’s “Chord Progression”**
     Link: Wikipedia’s [“Chord
-    Progression”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/Chord-Progression.pdf)
+    Progression”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/Chord-Progression.pdf)
     (PDF)  
         
      Instructions: Please read this webpage in its entirety to learn
@@ -520,7 +520,7 @@ Upon successful completion of this unit, the student will be able to:
     Mussorgsky’s Pictures at an Exhibition”**
     Link: The Saylor Foundation’s “[Guided Listening 1: Mussorgsky’s
     *Pictures at an
-    Exhibition*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/MUS101-Subunit-2.5-Guided-Listening-1-Pictures-at-an-Exhibition_FINAL.pdf)*”*
+    Exhibition*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/MUS101-Subunit-2.5-Guided-Listening-1-Pictures-at-an-Exhibition_FINAL.pdf)*”*
     (PDF)  
         
      Instructions: Click on the link to download the assignment page and
